@@ -11,7 +11,13 @@ RDH ICU is a mixed adult and paediatric ICU, classified as "Metropolitan" in the
 
 Scans are acquired and interpreted by the sonologist, with immediate discussion with another clinician if findings are discordant with the clinical picture or novel and concerning. Later review is limited to reporting at the time of archiving (roughly monthly) and discussion of interesting cases at regular joint echo meetings withe the cardiology department.
 
+## Research questions
+1 What volume of scans are performed in RDH ICU under normal conditions?
+2 What is the average quality of these scans using a standard measure?
+3 What is the influence of sonologist experience and training on that standard measure?
+
 ## Methodology 
-Echo studies were accessed from the archive by an independent researcher (CD) with the prior consent of all sonologists. A standard quality appraisal tool was applied to each echo. Descriptive statistics on adequacy of images were prepared, and the mean values of these per sonologist were calculated. Years of experience and training were summed together for each sonologist, with training arbitrarily taken as twice the value of experience, and the mean quality score was regressed on this "sonologist years" measure.
+50 consecutive echo studies were accessed from the archive by an independent researcher (CD) with the prior consent of all sonologists. A standard quality appraisal tool was applied to each echo. Descriptive statistics on adequacy of images were prepared, and the mean values of these per sonologist were calculated. Years of experience and training were summed together for each sonologist, with training arbitrarily taken as twice the value of experience, and the mean quality score was regressed on this "sonologist years" measure.
 
 ## Results
+5
